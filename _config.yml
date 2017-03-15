@@ -1,14 +1,13 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: The Southern Gothic Codex
+email: thesnarkyone@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to the landing page for the Southern Gothic Codex podcast. We will post our weekly podcast feed
+  to this site as well as itunes, libsyn and other auto formats.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://thesoutherngothiccodex.com" # the base hostname & protocol for your site
+twitter_username: thesnarkyone
+github_username:  thesnarkyone
 
 # Build settings
 markdown: kramdown
