@@ -2,7 +2,9 @@
 layout: post
 title:  "Testing"
 date:   2017-03-15
-categories: jekyll update
+categories: Testing
 ---
 
 I wonder why I can't get new posts to show up?
+
+Cause I'm stupid.
